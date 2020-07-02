@@ -1,0 +1,158 @@
+/*************************  TAG  **************************/
+a {
+  color: #F7F7F7;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 30px;
+  text-decoration: none;
+}
+a:hover {
+ color: #80D4FF;
+
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 9px;
+  border-color: #E0EBE8;
+  width: 8%;
+}
+
+h1 {
+  margin: 10px auto 0 auto;
+  font-family: 'Pangolin', sans-serif;
+  font-size: 3.5rem;
+  color: #40D9BF;
+}
+
+h2 {
+  margin: 20px auto 10px auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #40D9BF;
+}
+h3 {
+  margin: 5px auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #40D9BF;
+
+}
+
+/************************  CLASS  ***************************/
+.akash {
+  margin: 60px auto 20px auto;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
+.bottomcloud {
+  position: absolute;
+  transform: translate(-380px,50px);
+
+}
+.bottom-container {
+  margin-top: 60px;
+  background-color:  #2FA18E;
+  padding: 40px 0 10px 0;
+}
+
+.btn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #40D9BF;
+  padding: 12px 26px 12px 26px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #E0EBE8;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #FFFFFF;
+  font-size: 0.85rem;
+  padding: 20px 0 5px 0;
+
+}
+.noob {
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px auto 20px auto;
+  color: #3CDEC8;
+  font-size: 1.5rem;
+}
+.plain-text {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #4D4946;
+}
+.plain-text-2 {
+    font-size: 20px;
+      margin: 100px auto 60px auto ;
+    font-family: 'Montserrat', sans-serif;
+    color: #4D4946;
+    width: 50%;
+}
+.profile{
+        margin-bottom:60px;
+}
+.skill-img1 {
+  margin: auto 30px auto 0;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+float: left;
+}
+.skill-img2 {
+  margin: auto 0 auto 30px;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+float: right;
+}
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 150px auto ;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 150px auto ;
+  text-align: right;
+  line-height: 2;
+}
+
+.top_container {
+  background-color: #E0EBE8;
+  padding-top: 200px;
+  position: relative;
+  height: 870px;
+}
+
+.topcloud {
+  position: absolute;
+  z-index: 1;
+
+  transform: translate(300px,-50px);
+
+}
+
+.mountain {
+  position: absolute;
+  z-index: 1;
+
+  transform: translate(-50%,425px);
+
+}
+
+/**************************  ID  *************************/
